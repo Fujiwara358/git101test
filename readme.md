@@ -1,3 +1,3 @@
 ## hello git 
 
-Adding this file to branch1.1
+adding this file to main
